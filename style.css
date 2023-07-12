@@ -1,0 +1,198 @@
+.heading {
+  color: darkgoldenrod;
+  text-align: center;
+  font-family: French Script MT;
+  font-size: 939%;
+  background-color: darkslategrey;
+  font-weight: 900 bold;
+  border-style: groove;
+  border-color: darkslateblue;
+  border-width: 1000%;
+}
+
+.heading:hover {
+  color: darkslategray;
+  text-align: center;
+  font-family: French Script MT;
+  font-size: 939%;
+  background-color: darkgoldenrod;
+  font-weight: 900 bold;
+  border-style: groove;
+  border-color: darkkhaki;
+  border-width: 1000%;
+}
+
+.prolo {
+  display: flex;
+  justify-content: center;
+
+  color: darkgoldenrod;
+  text-align: center;
+  font-family: Baskerville Old Face;
+  font-size: 50px;
+  background-color: darkslategrey;
+  font-weight: 900 bold;
+  border: 62px groove hotpink;
+}
+
+body {
+  background-color: bisque;
+}
+
+p {
+  font-weight: 900;
+  font-family: Goudy Old Style;
+}
+
+.scts {
+}
+.sam {
+  display: flex;
+  justify-content: center;
+  width: 11%;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: groove;
+  border-color: lightcoral;
+  border-width: 15px;
+
+  size: 190%;
+}
+.tekst {
+  font-size: 25px;
+  color: black;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: lightslategray;
+  border: 20px ridge dodgerblue;
+  text-align: justify;
+  padding: 30px;
+}
+
+.x {
+  font-size: 25px;
+  color: black;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: royalblue;
+  border: 20px inset rosybrown;
+  text-align: justify;
+  padding: 30px;
+  font-family: "Baskerville Old Face";
+}
+
+.lakia {
+  color: darkgoldenrod;
+  text-align: center;
+  font-family: Lucida Calligraphy;
+  font-size: 79%;
+  background-color: darkslategrey;
+  font-weight: 300 bold;
+  border-style: groove;
+  border-color: darkslateblue;
+  border-width: 1000%;
+}
+
+.bs {
+  color: darkgoldenrod;
+  text-align: center;
+  font-family: Lucida Calligraphy;
+  font-size: 79%;
+  background-color: darkslategrey;
+  font-weight: 300 bold;
+  border-style: groove;
+  border-color: darkslateblue;
+  border-width: 1000%;
+}
+
+.laika {
+  border: 59px groove salmon;
+}
+
+.belka {
+  border: 59px outset palevioletred;
+}
+
+.strelka {
+  border: 59px ridge plum;
+}
+
+.rtt {
+  color: darkgoldenrod;
+  text-align: center;
+  font-family: Lucida Calligraphy;
+  font-size: 79%;
+  background-color: darkslategrey;
+  font-weight: 300 bold;
+  border-style: groove;
+  border-color: darkslateblue;
+  border-width: 1000%;
+}
+
+.pal {
+  color: darkgoldenrod;
+  text-align: center;
+  font-family: Lucida Calligraphy;
+  font-size: 79%;
+  background-color: darkslategrey;
+  font-weight: 300 bold;
+  border-style: groove;
+  border-color: darkslateblue;
+  border-width: 1000%;
+}
+
+.grath {
+  color: darkgoldenrod;
+  text-align: center;
+  font-family: Lucida Calligraphy;
+  font-size: 79%;
+  background-color: darkslategrey;
+  font-weight: 300 bold;
+  border-style: groove;
+  border-color: darkslateblue;
+  border-width: 1000%;
+}
+
+.przsolo {
+  color: darkgoldenrod;
+  text-align: center;
+  font-family: Jokerman;
+  font-size: 50px;
+  background-color: darkslategrey;
+  font-weight: 900 bold;
+  border: 63px ridge mediumaquamarine;
+}
+
+.przsolo:hover {
+  color: darkolivegreen;
+  background-color: rosybrown;
+  text-decoration: wavy;
+  text-shadow: 60%;
+  text-emphasis-color: rgb(41, 148, 241);
+  font-size: 50px;
+  font-family: Curlz MT;
+  font-weight: bolder;
+  font-style: italic;
+  font-variant: small-caps;
+  border: 58px groove cornsilk;
+}
+
+.prolo:hover {
+  color: darkolivegreen;
+  background-color: saddlebrown;
+  text-decoration: wavy;
+  text-shadow: 60%;
+  text-emphasis-color: rgb(41, 148, 241);
+  font-size: 50px;
+  font-family: Engravers MT;
+
+  font-weight: bolder;
+  font-style: italic;
+  font-variant: small-caps;
+  border: 58px groove deepskyblue;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
